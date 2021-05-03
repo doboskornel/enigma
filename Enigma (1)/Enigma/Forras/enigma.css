@@ -1,0 +1,70 @@
+body {
+	background-color: #669966;
+	color: #ffffcc;
+	width: 80%;
+	margin: auto;
+	text-align: justify;
+	font-size: 13pt;
+	font-family: Verdana;
+}
+hr{
+	color: #ffffff;
+}
+h2, h3 {
+	font-style: italic;
+}
+table {
+	width: 80%;
+  border-collapse: collapse;
+  margin: auto;
+  border: 2px #ffffff solid;
+  box-shadow: 1px 1px 3px #000000;
+}
+tr, th, td {
+	border: 1px #ffffcc solid;
+}
+th, td {
+	padding: 2px 0px 2px 5px;
+}
+th {
+	background-color: #ffffcc;
+	color: #669966;
+}
+img {
+	box-shadow: 1px 1px 3px #000000;
+	border-style: solid;
+	border-color: #ffffff;
+	border-width: 2px;
+
+}
+a {
+	text-decoration: none;
+	color: #00cc00;
+}
+.jobbkep { 
+	width: 30%;
+	float: right;
+	margin: 10px 0px 10px 20px;
+}	
+.kozep {
+	text-align: center;
+}
+.forras {
+	font-size: 80%;
+	font-style: italic;
+	text-align: right;
+}
+.fel {
+	width: 50px;
+	border: none;
+	box-shadow: none;
+}
+#meghatarozas {
+	margin-left: 50px;
+	text-align: right;
+	font-family: Georgia;
+	font-style: italic;
+}
+.kiemelt{
+	color: #00cc00;
+}
